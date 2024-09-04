@@ -1,0 +1,29 @@
+input {
+  font-family: 'Inter', sans-serif;
+  border: 1px solid #d1d1d6;
+  border-radius: 4px;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.66;
+  padding: 8px 12px;
+}
+input::placeholder {
+  color: #70707b;
+}
+
+.xs {
+  height: 24px;
+}
+
+.sm {
+  height: 36px;
+}
+
+.lg {
+  height: 40px;
+}
+
+.xl {
+  height: 48px;
+}
